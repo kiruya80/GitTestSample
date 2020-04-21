@@ -14,6 +14,18 @@ import androidx.lifecycle.ViewModelProviders;
 
 import com.ulling.gitsample.R;
 
+/**
+*
+*
+* Class:
+* Created by  on
+* @version 1.0.0
+*
+* Description:
+*
+ * 마스터 수정
+ *
+**/
 public class GalleryFragment extends Fragment {
 
     private GalleryViewModel galleryViewModel;
