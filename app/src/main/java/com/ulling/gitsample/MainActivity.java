@@ -16,6 +16,16 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
+/**
+*
+*
+* Class:
+* Created by  on
+* @version 1.0.0
+*
+* Description:
+*  Git 샘플
+**/
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
