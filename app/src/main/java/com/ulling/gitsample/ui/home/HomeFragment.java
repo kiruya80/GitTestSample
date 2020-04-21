@@ -14,6 +14,17 @@ import androidx.lifecycle.ViewModelProviders;
 
 import com.ulling.gitsample.R;
 
+/**
+*
+*
+* Class:
+* Created by  on
+* @version 1.0.0
+*
+* Description:
+*  뉴브런치로 작업
+ *
+**/
 public class HomeFragment extends Fragment {
 
     private HomeViewModel homeViewModel;
