@@ -25,6 +25,7 @@ import androidx.appcompat.widget.Toolbar;
 *
 * Description:
 *  Git 샘플
+ *
 **/
 public class MainActivity extends AppCompatActivity {
 
